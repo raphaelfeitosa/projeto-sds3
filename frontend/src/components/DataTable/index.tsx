@@ -1,5 +1,3 @@
-
-
 const DataTable = () => {
     return (
         <div className="table-responsive">
