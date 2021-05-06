@@ -6,6 +6,7 @@ import java.time.LocalDate;
 
 public class SaleDTO {
 
+    private static final long serialVersionUID = 1L;
     private Long id;
     private Integer visited;
     private Integer deals;
