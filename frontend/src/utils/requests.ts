@@ -1,0 +1,1 @@
+export const Base_URL = 'https://vendas-sds3.herokuapp.com';
